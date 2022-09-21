@@ -23,7 +23,8 @@ app.use('/api/users', usersRoutes);
 
 //routes
 app.get ('/', (req, res) => {
-    res.send ('halo')
+    res.send ('sorry i am having problem with my heroku...... 
+              trying to rectify it')
 })
 
 
